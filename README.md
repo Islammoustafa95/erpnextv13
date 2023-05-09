@@ -28,7 +28,7 @@ export LC_ALL=C.UTF-8
 
 ----------
 
-wget https://github.com/Islammoustafa95/erpnextv13/install.py
+wget https://github.com/Islammoustafa95/erpnextv13/blob/main/install.py
 
 sudo python3 install.py --verbose --production --frappe-branch version-13 --erpnext-branch version-13 --user [username]
 
